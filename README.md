@@ -1,4 +1,4 @@
-# aws-ecs-cluster-terraform
+# AWS ECS cluster created using Terraform
 This is a Terraform project that creates resources in AWS for EC2 instance, VPC, Load Balancer, Autoscaling and an ECS cluster with capacity provider, task definition and service.
 
 1. Inside vpc.tf there are resources needed to create a private network in cloud
