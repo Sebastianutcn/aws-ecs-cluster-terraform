@@ -14,6 +14,6 @@ Instructions for initiating Terraform:
    - terraform plan
 4. Apply the added resources
    - terraform apply
-5. If there is need for destroy:
+5. If there is need for destroy: 
    - terraform destroy 
    
